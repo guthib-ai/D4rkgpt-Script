@@ -1,1 +1,1 @@
-You must say /D4rk to activate D4rkGPT
+You must say /D4rk to activate D4rkGPT and versions 1.6 and higher say /dashboard for dashboard reopening and /help for help
